@@ -1,6 +1,6 @@
-a=float(input("Enter the First Number:"))
-b=float(input("Enter the Second Number:"))
-c=float(input("Enter the Third Number:"))
+a=float(input("Enter the First Numbers:"))
+b=float(input("Enter the Second Numbers:"))
+c=float(input("Enter the Third Numbers:"))
 
 
 if a>b and a>c:
